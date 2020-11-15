@@ -1,16 +1,32 @@
-## Welcome to learning git in 15 mins
+## Welcome to learn git in 15 mins
 
 These set of exercises will help you get started with git very quickly and prepare you to contribute to any project.
 
-You can use [SourceTree](https://www.sourcetreeapp.com/) but we will recommend you to use the command prompt.
+You can use [SourceTree](https://www.sourcetreeapp.com/) to install all the dependencies on your system.
+We will use command prompt to learn about the most used commands. 
+You will be easily able to relate to any Git UI app with this background.
 
 ### Installing Git
 
-You will find all the information required at [GitDownloads](https://git-scm.com/downloads),
+If you want to download it yourself. You will find all the information required at [GitDownloads](https://git-scm.com/downloads),
 shortcut for [Windows](https://git-scm.com/download/win), [Linux/Unix](https://git-scm.com/download/linux), [Mac](https://git-scm.com/download/mac).
 
-#### Exercise 1 : Create a branch (original) OB
-#### Exercise 2 : Checkout the branch in a new directory.
+### Hands on exercises for a beginner
+#### Exercise 1 : Get the branch (master) 
+```markdown
+Theory : git clone command gets the source to your current directory.
+
+git clone https://github.com/rajneeshbajaj/learngit
+```
+#### Exercise 2 : Create a branch from master
+```markdown
+Theory : git branch BRANCH-NAME command create the branch
+         git checkout BRANCH-NAME makes branch active in your current directory.
+         Any changes you make will be committed to the branch.
+         
+git branch rajb1
+git checkout rajb1
+```
 #### Exercise 3 : Make Changes to the code. Commit Locally.
 #### Exercise 4 : Make Changes to the code. Commit Locally and push it to the main repository.
 #### Exercise 5 : Create another branch (AB) and make code changes
