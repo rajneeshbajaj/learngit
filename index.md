@@ -60,7 +60,30 @@ Theory : git push saves the changes to the remote respository
 
 git push
 ```
-#### Exercise 5 : Create another branch (AB) and make code changes
+With that we come to the end of beginner exercises. But there are two more tools 
+that you have to master. The set up required is a lot more complicated, so 
+Please be patient.
+
+### Advanced exercises.
+#### Exercise 5 : Merge code from one branch to another branch
+Very often you will have to merge code from a child branch to the parent or main branch.
+The challenge is that while you were working on the child branch, someone 
+may have pushed changes, so your parent branch has moved ahead 
+from where you had branched.
+You will have to merge the code from parent branch to your branch before
+you can push your changes back to the parent branch.
+
+The Exercise
+- Create a branch {yourinitials}_Parent
+- Create another branch from {yourinitials}_Parent called {yourinitials}_Child
+- Pull {yourinitials}_child into a folder named child
+- Add one more statement print('hello world from the child branch') to helloword.py.
+- Commit and push your changes to remote repository
+- Pull {yourinitials}_Parent into a folder names parent
+- Add one more statement print('hello world from the parent branch') to helloword.py.
+- Commit and push your changes to remote repository
+ 
+
 #### Exercise 6 : Merge Code from AB to the OB branch.
 
 #### Other notes
