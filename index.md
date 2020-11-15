@@ -6,7 +6,7 @@ You can use [SourceTree](https://www.sourcetreeapp.com/) but we will recommend y
 
 ### Installing Git
 
-You will find all the information required at [Git - Downloads] (https://git-scm.com/downloads)
+You will find all the information required at [Git-Downloads] (https://git-scm.com/downloads)
 Short for [Windows](https://git-scm.com/download/win), [Linux/Unix](https://git-scm.com/download/linux), [Mac](https://git-scm.com/download/mac).
 
 ```markdown
