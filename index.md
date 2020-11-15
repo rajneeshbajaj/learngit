@@ -6,8 +6,17 @@ You can use [SourceTree](https://www.sourcetreeapp.com/) but we will recommend y
 
 ### Installing Git
 
-You will find all the information required at [GitDownloads](https://git-scm.com/downloads)
-Short for [Windows](https://git-scm.com/download/win), [Linux/Unix](https://git-scm.com/download/linux), [Mac](https://git-scm.com/download/mac).
+You will find all the information required at [GitDownloads](https://git-scm.com/downloads),
+shortcut for [Windows](https://git-scm.com/download/win), [Linux/Unix](https://git-scm.com/download/linux), [Mac](https://git-scm.com/download/mac).
+
+#### Exercise 1 : Create a branch (original) OB
+#### Exercise 2 : Checkout the branch in a new directory.
+#### Exercise 3 : Make Changes to the code. Commit Locally.
+#### Exercise 4 : Make Changes to the code. Commit Locally and push it to the main repository.
+#### Exercise 5 : Create another branch (AB) and make code changes
+#### Exercise 6 : Merge Code from AB to the OB branch.
+
+#### Other notes
 
 ```markdown
 Syntax highlighted code block
