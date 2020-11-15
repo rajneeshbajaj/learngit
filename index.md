@@ -2,7 +2,7 @@
 
 These set of exercises will help you get started with git very quickly and prepare you to contribute to any project.
 
-You can use [Source Tree](https://www.sourcetreeapp.com/) but we will recommend you to use the command prompt.
+You can use [SourceTree](https://www.sourcetreeapp.com/) but we will recommend you to use the command prompt.
 
 ### Installing Git
 
