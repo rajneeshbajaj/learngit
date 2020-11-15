@@ -4,7 +4,7 @@ These set of exercises will help you get started with git very quickly and prepa
 
 You can use [Source Tree](https://www.sourcetreeapp.com/) but we will recommend you to use the command prompt.
 
-### Markdown
+### Installing Git
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
