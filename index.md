@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to learning git in 15 mins
 
-You can use the [editor on GitHub](https://github.com/rajneeshbajaj/learngit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+These set of exercises will help you get started with git very quickly and prepare you to contribute to any project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use [Source Tree](https://www.sourcetreeapp.com/) but we will recommend you to use the command prompt.
 
 ### Markdown
 
