@@ -31,8 +31,35 @@ OR the shorter version
 
 git checkout -b rajb1
 ```
-#### Exercise 3 : Make Changes to the code. Commit Locally.
-#### Exercise 4 : Make Changes to the code. Commit Locally and push it to the main repository.
+#### Exercise 3 : Make changes to a file.
+In the [src](https://github.com/rajneeshbajaj/learngit/tree/main/src) folder, 
+modify helloword.py on your machine to have print('Hello World') in the second line.
+Save the file.
+```markdown
+Theory : git diff allows you to find what has changed from ------ ADD Here
+         Find what has changed and only commit what you want to preserve.
+
+git diff
+```
+#### Exercise 4 : Commit the changes locally.
+It is a good practice to commit frequently. Commit will not 
+take your local copy to the remote repository. The changes will stored
+on your machine.
+```markdown
+Theory : git commit saves the changes to your local git repository.
+         You should add some meaningful comment when you commit.
+
+git commit -m "add another print statement"
+```
+
+#### Exercise 5 : Push your changes to the github respository
+Once your bug fix or feature addition is complete you will have to update the branch
+in the remote repository. This will allow other people to see your changes as well.
+```markdown
+Theory : git push saves the changes to the remote respository
+
+git push
+```
 #### Exercise 5 : Create another branch (AB) and make code changes
 #### Exercise 6 : Merge Code from AB to the OB branch.
 
