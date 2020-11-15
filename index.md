@@ -26,6 +26,10 @@ Theory : git branch BRANCH-NAME command create the branch
          
 git branch rajb1
 git checkout rajb1
+
+OR the shorter version
+
+git checkout -b rajb1
 ```
 #### Exercise 3 : Make Changes to the code. Commit Locally.
 #### Exercise 4 : Make Changes to the code. Commit Locally and push it to the main repository.
